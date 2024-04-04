@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "660e8594e43c4962166f7b85"
+  },
+  "name": "string",
+  "last_name": "string",
+  "data": {
+    "address": "string",
+    "telephone": "integer",
+    "email": "string",
+    "register_date": "string"
+  },
+  "last_shoppings": [
+    {
+      "brand_name": "string",
+      "graduation": {
+        "right": "float",
+        "left": "float"
+      },
+      "glass_colour": {
+        "right": "string",
+        "left": "string"
+      },
+      "frame_type": "string",
+      "price": "float"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660e8594e43c4962166f7b86"
+  },
+  "name": "John",
+  "last_name": "Smith",
+  "data": {
+    "address": "Right Street 123",
+    "telephone": 678921235,
+    "email": "smith.john2000@gmail.com",
+    "register_date": "2023-09-23"
+  },
+  "last_shoppings": [
+    {
+      "brand_name": "Rayban",
+      "graduation": {
+        "right": 2,
+        "left": 2.3
+      },
+      "glass_colour": {
+        "right": "",
+        "left": ""
+      },
+      "frame_type": "Metallic",
+      "price": "127,0"
+    },
+    {
+      "brand_name": "Etnia Barcelona",
+      "graduation": {
+        "right": 2,
+        "left": 2.3
+      },
+      "glass_colour": {
+        "right": "Green",
+        "left": "Green"
+      },
+      "frame_type": "Plaster",
+      "price": "209,0"
+    }
+  ]
+}]
