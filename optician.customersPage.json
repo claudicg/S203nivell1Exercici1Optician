@@ -14,8 +14,8 @@
     {
       "brand_name": "string",
       "graduation": {
-        "right": "float",
-        "left": "float"
+        "right": "double",
+        "left": "double"
       },
       "glass_colour": {
         "right": "string",
